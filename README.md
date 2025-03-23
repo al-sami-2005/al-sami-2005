@@ -4,7 +4,7 @@
 ## 🌟 About Me  
 - 🏫 **University:** Daffodil International University  
 - 🎓 **Major:** Computer Science & Engineering (CSE)  
-- 🔍 **Interests:** Web Development, Open Source, Technology  
+- 🔍 **Interests:** Machine Learning,Data Science,Web Development, Open Source, Technology  
 - 💻 **Learning:** Full-Stack Development, Git & GitHub  
 - 🎯 **Goal:** Building a course-selling website & improving my coding skills  
 
