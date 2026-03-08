@@ -177,12 +177,11 @@ IoT Experimentation
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=al-sami-2005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=7c3aed&text_color=c9d1d9&count_private=true&hide=contribs" />
-<img width="49%" src="https://streak-stats.demolab.com?user=al-sami-2005&theme=dark&hide_border=true&background=0d1117&ring=00f5d4&fire=7c3aed&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=64748b&stroke=0d1117" />
+<img width="70%" src="https://streak-stats.demolab.com?user=al-sami-2005&theme=dark&hide_border=true&background=0d1117&ring=00f5d4&fire=7c3aed&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=64748b&stroke=0d1117" />
 
 <br/>
 
-<img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=al-sami-2005&bg_color=0d1117&color=00f5d4&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=al-sami-2005&bg_color=0d1117&color=00f5d4&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" />
 
 </div>
 
@@ -206,18 +205,14 @@ IoT Experimentation
 
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│   🔭  Building deep learning models for CV & NLP                  │
-│   🌱  Mastering Generative AI & Transformer architectures         │
-│   📱  Developing AI-integrated Android applications               │
-│   ⚡  Experimenting with embedded systems & IoT                   │
-│   🤝  Open to internships, research & collaborations              │
-│   💬  Ask me about ML, deep learning, web or Android dev          │
-│                                                                    │
-└──────────────────────────────────────────────────────────────────┘
-```
+| | |
+|---|---|
+| 🔭 | Building deep learning models for CV & NLP |
+| 🌱 | Mastering Generative AI & Transformer architectures |
+| 📱 | Developing AI-integrated Android applications |
+| ⚡ | Experimenting with embedded systems & IoT |
+| 🤝 | Open to internships, research & collaborations |
+| 💬 | Ask me about ML, deep learning, web or Android dev |
 
 </div>
 
@@ -229,23 +224,12 @@ IoT Experimentation
 
 <div align="center">
 
-<a href="https://github.com/al-sami-2005">
-  <img src="https://img.shields.io/badge/GitHub-al--sami--2005-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/al-sami-10as70">
-  <img src="https://img.shields.io/badge/LinkedIn-Al%20Sami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:alsami1070@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-alsami1070-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://wa.me/8801516502591">
-  <img src="https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-al--sami--2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/al-sami-2005)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Al%20Sami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-sami-10as70)
+[![Gmail](https://img.shields.io/badge/Gmail-alsami1070-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alsami1070@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801516502591)
 
-<br/><br/>
+<br/>
 
 > *"The best way to predict the future is to build it."*
 >
