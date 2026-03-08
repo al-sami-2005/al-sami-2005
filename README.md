@@ -177,13 +177,11 @@ IoT Experimentation
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=al-sami-2005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=7c3aed&text_color=c9d1d9&rank_icon=percentile&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=al-sami-2005&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=7c3aed&text_color=c9d1d9&count_private=true&hide=contribs" />
 <img width="49%" src="https://streak-stats.demolab.com?user=al-sami-2005&theme=dark&hide_border=true&background=0d1117&ring=00f5d4&fire=7c3aed&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=64748b&stroke=0d1117" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=al-sami-2005&layout=donut&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=8" />
-&nbsp;&nbsp;&nbsp;
 <img width="55%" src="https://github-readme-activity-graph.vercel.app/graph?username=al-sami-2005&bg_color=0d1117&color=00f5d4&line=7c3aed&point=f59e0b&area=true&area_color=7c3aed&hide_border=true" />
 
 </div>
