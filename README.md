@@ -226,7 +226,7 @@ IoT Experimentation
 
 [![GitHub](https://img.shields.io/badge/GitHub-al--sami--2005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/al-sami-2005)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Al%20Sami-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-sami-10as70)
-[![Gmail](https://img.shields.io/badge/Gmail-alsami1070-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:self@alsami.site)
+[![Gmail](https://img.shields.io/badge/Gmail-self@alsami.site-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:self@alsami.site)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801516502591)
 
 <br/>
