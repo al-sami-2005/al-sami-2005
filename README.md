@@ -177,7 +177,7 @@ IoT Experimentation
 
 <div align="center">
 
-[<img width="70%" src="https://streak-stats.demolab.com?user=al-sami-2005&theme=dark&hide_border=true&background=0d1117&ring=00f5d4&fire=7c3aed&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=64748b&stroke=0d1117" />](https://streak-stats.demolab.com?user=al-sami-2005&theme=dark&hide_border=true&background=0d1117&ring=00f5d4&fire=7c3aed&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=64748b&stroke=0d1117&timezone=Asia/Dhaka)
+<img width="70%" src="https://streak-stats.demolab.com?user=al-sami-2005&theme=dark&hide_border=true&background=0d1117&ring=00f5d4&fire=7c3aed&currStreakLabel=00f5d4&sideLabels=c9d1d9&dates=64748b&stroke=0d1117&timezone=Asia%2FDhaka&v=2" />
 
 <br/>
 
